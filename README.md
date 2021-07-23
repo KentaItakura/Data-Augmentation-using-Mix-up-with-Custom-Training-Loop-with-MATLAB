@@ -1,3 +1,4 @@
+[![View Image classification using CNN with mixup data augmentation  on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/76415-image-classification-using-cnn-with-mixup-data-augmentation)
 # Data Augmentation using Mix-up with Custom Training Loop
 
 
@@ -36,7 +37,7 @@ The classification was done using fine-tuining with a pre-trained network ResNet
 
 
 
-In this demo, a dataset called Multi-class Weather Dataset for Image Classification [6] was used. The images in the figure above were derived from the dataset [6]. The ratio in the title of each subfigure represents the composition of the classes.  
+In this demo, a dataset called Multi-class Weather Dataset for Image Classification [6] was used. The images in the figure above were derived from the dataset [6]. The ratio in the title of each subfigure represents the composition of the classes. This readme file was created with livescript2markdown​: MATLAB's live scripts to markdown by Michio Inoue 
 
 
 
