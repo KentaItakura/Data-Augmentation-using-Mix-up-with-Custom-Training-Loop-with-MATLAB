@@ -1,3 +1,6 @@
+### この内容は、[こちらのブログ記事](https://kentapt.hatenablog.com/entry/2021/12/28/215713)でも説明しているのでぜひご覧ください  
+
+
 [![View Image classification using CNN with mixup data augmentation  on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/76415-image-classification-using-cnn-with-mixup-data-augmentation)
 # Data Augmentation using Mix-up with Custom Training Loop
 
